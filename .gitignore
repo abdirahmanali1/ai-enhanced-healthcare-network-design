@@ -1,0 +1,6 @@
+*.gns3.backup
+project-files/
+*.log
+~$*.docx
+.DS_Store
+Thumbs.db
